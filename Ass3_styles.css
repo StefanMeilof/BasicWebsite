@@ -55,7 +55,7 @@ a:hover, a:active{
     color: white;
 }
 
-#home {
+.home {
 	width: 600px;
 	height: 280px;
 	margin:0px;
@@ -76,7 +76,7 @@ a:hover, a:active{
     border: 1px solid white;
 }
 
-#about {
+.about {
     width: 350px;
     height: 280px;
     margin:0px;
