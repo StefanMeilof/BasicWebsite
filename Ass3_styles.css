@@ -1,0 +1,89 @@
+body{
+	font-family: Arial;
+    background-image:url(http://readcereal.com/wp-content/uploads/2016/03/viet_landscape4.jpg);
+    background-repeat: no-repeat;
+    background-size: 1440px;
+}
+
+h1{
+	font-size: 68px;
+}
+
+h2{
+	font-size: 40px;
+}
+
+#header {
+	width: 1400px;
+	height: 530px;
+	margin:0px;
+    padding:10px;
+    text-align: center;
+
+}
+
+#Socialbar {
+	text-align: left;
+    width:700px;
+    float:left;
+    padding:5px; 
+    position: fixed;
+}
+
+#Sitebar {
+	text-align: right;
+    width:700px;
+    float:right;
+    padding:5px;
+    position: fixed;
+    top: 10px;
+    right: 10px;
+}
+
+a:link, a:visited {
+    color: grey;
+    padding: 10px;
+    border: 1px solid white;
+    width: 75px;
+    text-align: center;
+    text-decoration: none; 
+	float: left;
+}
+
+a:hover, a:active{
+    background-color: #ded1b1;
+    color: white;
+}
+
+#home {
+	width: 600px;
+	height: 280px;
+	margin:0px;
+    padding:50px;
+    text-align: left;
+	text-align: justify;
+	float: left;
+}
+
+#photo{
+    width: 1315px;
+    height: 280px;
+    margin:0px;
+    padding:50px;
+    text-align: center;
+    float: center; 
+    overflow: scroll;   
+    border: 1px solid white;
+}
+
+#about {
+    width: 350px;
+    height: 280px;
+    margin:0px;
+    padding:0 50px;
+    text-align: left;
+    text-align: justify;
+    float: left;
+}
+
+
